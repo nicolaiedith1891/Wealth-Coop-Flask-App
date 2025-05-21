@@ -88,6 +88,15 @@ On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### 4️⃣ Run Train Files
+
+```bash
+python default.py
+python forcast.py
+python repay.py
+# you maybe required to cd into the directory
+```
+
 ---
 
 ## ▶️ Run the Server
