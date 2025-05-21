@@ -1,0 +1,4 @@
+# Editor directories and files
+
+# Add this to your .gitignore:
+*.pkl
